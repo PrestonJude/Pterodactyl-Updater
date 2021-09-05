@@ -24,5 +24,5 @@ php artisan up
 sleep 1
 clear
 sleep 1
-echo -e "\e[1;31m Your Pterodactyl Update Has Now Been Completed | Made By PrestonJude :D \e[0m"
+echo -e "\e[1;31m Your Pterodactyl Update Has Now Been Completed | Made By WavingCat :D \e[0m"
 sleep 10
